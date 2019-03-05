@@ -1,0 +1,15 @@
+processed 21418 tokens with 1998 phrases; found: 776 phrases; correct: 82.
+accuracy:  77.87%; precision:  10.57%; recall:   4.10%; FB1:   5.91
+         Material: precision:  14.36%; recall:   6.50%; FB1:   8.95  390
+          Process: precision:   7.43%; recall:   2.80%; FB1:   4.06  350
+             Task: precision:   0.00%; recall:   0.00%; FB1:   0.00  36
+Catergory results
+             precision    recall  f1-score   support
+
+          O       0.79      0.98      0.88     16655
+       Task       0.14      0.01      0.01       863
+    Process       0.47      0.08      0.13      2181
+   Material       0.35      0.08      0.13      1719
+
+avg / total       0.70      0.78      0.71     21418
+
