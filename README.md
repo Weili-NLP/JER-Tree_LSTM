@@ -1,2 +1,2 @@
 # JER-Tree_LSTM
-Joint Neural Network Model for Simultaneously extracting entities and relations based on constituency tree.
+Joint neural network model for simultaneously extracting entities and relations based on constituency tree.
